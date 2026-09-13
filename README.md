@@ -1,8 +1,6 @@
 # German-Traffic-Sign-CNN-Private
 A Structured Project Practicum where CNN models were trained to classify German Traffic Signs using the public GTSRB dataset.
 # 🚦 Autonomous Driving Traffic Sign Recognition: Convolutional Neural Network (CNN) Pipeline
-[![Framework](https://shields.io)](https://keras.io)
-[![Language](https://shields.io)](https://python.org)
 
 An end-to-end deep convolutional neural network (CNN) classification pipeline developed to automatically identify real-world road traffic signs from camera inputs. This system processes a localized subset of the German Traffic Sign Recognition Benchmark (GTSRB) dataset across safety-critical categories to enable high-accuracy predictive modeling for computer vision in advanced driver-assistance systems (ADAS).
 
