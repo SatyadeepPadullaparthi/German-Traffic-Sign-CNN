@@ -1,4 +1,4 @@
-# German-Traffic-Sign-CNN-Private
+# German-Traffic-Sign-CNN
 A Structured Project Practicum where CNN models were trained to classify German Traffic Signs using the public GTSRB dataset.
 # 🚦 Autonomous Driving Traffic Sign Recognition: Convolutional Neural Network (CNN) Pipeline
 
